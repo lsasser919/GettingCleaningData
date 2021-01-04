@@ -1,3 +1,4 @@
+
 ### Set initial working directory
 setwd("/Users/lorenmyers/Desktop/Coursera")
 
