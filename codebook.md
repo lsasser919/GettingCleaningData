@@ -13,7 +13,7 @@ The original data information is located below for reference, should it be neede
     Import the files in to R
     Create a comprehensive single data set of those files
     Subset out the values containing mean and standard deviation in to a new dataframe
-    Adjust the activity labels and create descriptive variable names
+    Adjust the activity labels and create descriptive variable names, remove abbreviations and spell them out to prevent confusion
     Create a second dataset that is tidy 
 
 The dataset includes the following files:
@@ -22,22 +22,7 @@ run_analysis2.R: script to combine the original data into one data set focusing 
     standard deviation values for each measurement.
 codebook.md: information on the analysis done and appropriate variables
 
-Relevant Variable information:
-Variable Information: Each variable contains both mean and standard deviation measurements
-timeBodyAcc: body acceleration signal obtained by subtracting the gravity from the total 	acceleration
-timeGravityAcc:
-timeBodyAccJerk:
-timeBodyGyro: angular velocity vector measured by the gyroscope for each window sample. 	Units = radians/second
-timeBodyGyroJerk:
-timeBodyAccMag:
-timeBodyAccJerkMag:
-frequencyBodyAcc:
-frequencyBodyAccJerk:
-frequencyBodyGyro:
-frequencyBodyAccMag:
-frequencyBodyAccJerkMag:
-frequencyBodyGyroMag:
-frequencyBodyGyroJerkMag:
+
 
 
 ######################
