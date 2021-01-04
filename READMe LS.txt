@@ -12,21 +12,10 @@ Subset out the values containing mean and standard deviation in to a new datafra
 Adjust the activity labels and create descriptive variable names
 Create a second dataset that is tidy 
 
-Variable Information: Each variable contains both mean and standard deviation measurements
-timeBodyAcc: body acceleration signal obtained by subtracting the gravity from the total 	acceleration
-timeGravityAcc:
-timeBodyAccJerk:
-timeBodyGyro: angular velocity vector measured by the gyroscope for each window sample. 	Units = radians/second
-timeBodyGyroJerk:
-timeBodyAccMag:
-timeBodyAccJerkMag:
-frequencyBodyAcc:
-frequencyBodyAccJerk:
-frequencyBodyGyro:
-frequencyBodyAccMag:
-frequencyBodyAccJerkMag:
-frequencyBodyGyroMag:
-frequencyBodyGyroJerkMag:
+Files Included: 
+READMe LS.txt
+run_analysis.R = R code to create the tidy data set
+codebook.md = codebook including variable and other information
 
 
 
@@ -36,7 +25,7 @@ Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Universit‡ degli Studi di Genova.
+DITEN - Universit√† degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
